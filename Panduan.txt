@@ -1,0 +1,69 @@
+============================================================
+       TERIMA KASIH TELAH BERBELANJA DI DHS STUDIO
+          "Tampil Profesional, Mulai Dari Sini"
+============================================================
+
+Selamat! Anda telah memiliki template "DHS Portfolio V1". 
+Template ini dirancang khusus untuk membantu Anda membangun 
+branding diri yang kuat dengan desain yang bersih dan modern.
+
+Ikuti panduan mudah ini untuk mengubah identitas di dalamnya.
+
+------------------------------------------------------------
+1. CARA MEMBUKA FILE (EDIT TEKS)
+------------------------------------------------------------
+1. Klik kanan pada file "index.html".
+2. Pilih "Open With" -> pilih "Notepad" (atau VS Code).
+3. Gunakan fitur cari cepat (CTRL + F) untuk menemukan teks 
+   yang ingin Anda ubah.
+
+------------------------------------------------------------
+2. MENGUBAH NAMA & EFEK MENGETIK (TYPEWRITER)
+------------------------------------------------------------
+Template ini memiliki fitur teks yang mengetik otomatis.
+1. Tekan CTRL + F, cari kata: "Saya Seorang"
+2. Di dekat sana, Anda akan melihat daftar profesi di dalam 
+   kurung siku, seperti: ["Programmer", "Designer", "Freelancer"]
+3. Silakan ubah kata-kata tersebut sesuai profesi Anda. 
+   Pastikan tanda petik (" ") dan koma (,) tetap ada.
+
+------------------------------------------------------------
+3. CARA MENGGANTI FOTO PROFIL & KARYA (PENTING!)
+------------------------------------------------------------
+Website ini menggunakan gambar otomatis dari internet agar ringan. 
+Jika ingin menggunakan foto Anda sendiri:
+
+1. Siapkan foto Anda dalam format .jpg atau .png.
+2. Letakkan foto tersebut di folder yang SAMA dengan file index.html.
+3. Di Notepad, cari kode: src="https://images.unsplash..."
+4. Ganti seluruh link di dalam tanda petik (" ") dengan NAMA FILE 
+   foto Anda.
+   Contoh: src="foto-profil.jpg" atau src="proyek1.png"
+
+------------------------------------------------------------
+4. MENGHUBUNGKAN MEDIA SOSIAL
+------------------------------------------------------------
+1. Cari bagian "Social Media" atau "Contact".
+2. Cari kode: href="#"
+3. Ganti tanda pagar (#) dengan link profil Anda.
+   Contoh: href="https://instagram.com/username-anda"
+
+------------------------------------------------------------
+5. CARA ONLINE-KAN PORTFOLIO (GRATIS!)
+------------------------------------------------------------
+Agar HRD atau klien bisa melihat portfolio Anda di internet:
+1. Buka www.netlify.com atau www.vercel.com (Daftar Gratis).
+2. Seret (Drag & Drop) folder template ini ke kotak yang tersedia.
+3. Tunggu 1 menit, dan Portfolio Anda sudah aktif online!
+
+------------------------------------------------------------
+BUTUH BANTUAN KHUSUS? (JASA SETUP DHS)
+------------------------------------------------------------
+Jika Anda ingin terima beres (kami bantu editkan semua teks, 
+foto, link sosmed, sampai website Anda online 100%), kami 
+menyediakan JASA SETUP seharga Rp30.000 saja.
+
+Hubungi Admin DHS Studio di: [082184268075]
+
+Semoga Sukses dengan Karier & Project Anda!
+- DHS Studio -
